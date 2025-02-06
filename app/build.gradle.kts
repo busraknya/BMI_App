@@ -5,12 +5,12 @@ plugins {
 
 android {
     namespace = "com.busra.bmi_app"
-    compileSdk = 34
+    compileSdk = 35
 
     defaultConfig {
         applicationId = "com.busra.bmi_app"
         minSdk = 24
-        targetSdk = 34
+        targetSdk = 35
         versionCode = 1
         versionName = "1.0"
 
